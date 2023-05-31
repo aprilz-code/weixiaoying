@@ -9,8 +9,8 @@ export default {
 
 	// 全局配置
 	common: {
-		baseUrl: "https://movie.douban.com",
-
+		//baseUrl: "https://movie.douban.com",
+		baseUrl: "/api",
 
 		header: {
 			// 'Content-Type':'application/json;charset=UTF-8',
